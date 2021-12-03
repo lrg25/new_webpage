@@ -1,0 +1,22 @@
+.t-div-sty-m {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.t-div-img-m {
+    background-image: url("../../images/foto7.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: 100%;
+    background-color: transparent;
+}
+
+.t-text-m {
+    font-size: 14px;
+    padding: 1rem 1rem;
+}
+
+.space-between-m {
+    padding-bottom: 1em;
+}

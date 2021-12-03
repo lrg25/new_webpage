@@ -1,0 +1,18 @@
+.t-div-sty-r {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.t-div-img-r {
+    background-image: url("../../images/foto3.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: 100%;
+    background-color: transparent;
+}
+
+.t-text-r {
+    font-size: 14px;
+    padding: 1rem 1rem;
+}

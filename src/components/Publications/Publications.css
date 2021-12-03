@@ -1,0 +1,22 @@
+.t-div-sty-p {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+.t-div-img-p {
+    background-image: url("../../images/foto5.jpg");
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background-size: 100%;
+    background-color: transparent;
+}
+
+.t-text-p {
+    font-size: 14px;
+    padding: 1rem 1rem;
+}
+
+.space-between-p {
+    padding-bottom: 1em;
+}

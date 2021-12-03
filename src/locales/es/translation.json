@@ -1,0 +1,94 @@
+{
+    "welcome": "Welcome",
+    "here": "aquí",
+    "qdem": "Q-DEM",
+    "home": {
+        "title": "Home",
+        "text": "Bienvenid@ a mi página web. Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín."
+    },
+    "aboutme": {
+        "title": "Sobre Mí",
+        "text": "Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín. Antes de incorporarme a Humboldt, fui becaria predoctoral en el IBEI y la UB, donde realicé mi tesis doctoral con financiación del Ministerio de Economía, Industria y Competitividad (FPI), vinculada al proyecto de Política de Transparencia en un contexto de Gobernanza Multinivel (IP: Laura Chaqués-Bonafont). Durante mi tesis he sido investigadora visitante en el departamento de Política y Relaciones Internacionales de la Universidad de Oxford.",
+        "text1": "Antes de completar mi tesis doctoral, realicé el Máster en Análisis Político y Asesoramiento Institucional en la Universidad de Barcelona, donde también trabajé como asistente de investigación en el grupo de investigación Calidad de la Democracia (",
+        "text2": "). Antes de esto, me gradué en Política y Relaciones Internacionales en la Universidad de Bath y trabajé para la embajada de Arabia Saudí en Madrid.",
+        "text3": "En la actualidad, la mayor parte de mi investigación gira en torno a los determinantes del apoyo a la Renta Básica Universal, que ha sido el tema principal de mi tesis doctoral. Sin embargo, mis intereses de investigación también incluyen una amplia gama de temas sobre los que puede encontrar más información "
+    },
+    "research": {
+        "title": "Investigación"
+    },
+    "preferences": {
+        "title": "Preferencias Por La Reforma Del Estado De Bienestar Y La Renta Básica Universal",
+        "text": "En mi tesis doctoral exploro una de los temas más novedosos en el estudio de las preferencias y actitudes hacia la reforma del estado de bienestar. Los enfoques teóricos tradicionales sobre las preferencias de bienestar no están equipados para arrojar luz sobre esta cuestión, dado que se han centrado en explicar el apoyo hacia la redistribución o otras políticas sociales, y no es intuitivo cómo aplican estas teorías al apoyo por la renta básica universal. A nivel empírco, las investigaciones anteriores no han podido descifrar esta cuestión. Estos estudios muestran que los predictores de las preferencias por la RBU son los mismos que los de otras políticas como las transferencias condicionales o los ingresos mínimos. Así, hasta ahpora no hemos podido comprender qué tipo de ingresos prefiere la opinion pública, ni qué aspectos de un UBI parecen más atractivos de esta medida, así como qué aspectos son los más inpopulares. Con el fin de arrojar luz sobre estas cuestiones, en mi tesis doctoral he empleado argumentos teóricos novedosos y he diseñado dos experimentos de encuesta que permiten entender qué aspectos de la RBU son los más importantes para configurar el apoyo a esta medida. Algunos de los resultados de esta investigación han sido aceptados para su publicación en el Journal of European Public Policy y en el Journal of European Social Policy."
+    },
+    "interest": {
+        "title": "Grupos De Interés",
+        "text": "Mi motivación para estudiar los grupos de interés surgió durante mis años como asistente de investigación en el grupo ",
+        "text1": " y como investigadora predoctoral en la UB y el IBEI. Durante este tiempo trabajé con el equipo de Q-Dem en el Desarrollo de la primera base de datos de grupos de interés en España, que a dia de hoy es la más comprensiva, incluyendo grupos de interés que se han movilizado en diversas arenas. Además de esta base de datos, también diseñamos una encuesta dirigida a estos grupos de interés para conocer mejor sus recursos, actividades, actuación y estrategias de lobby (ver más ",
+        "text2": "). Parte de esta investigación derivó en un artículo académico (enlace: ",
+        "text3": ") que explica las interacciones entre los grupos de interés y los partidos políticos, en el que mostramos que los partidos políticos mayoritarios siguen siendo los principales objetivos de los grupos de interés, pero esta interacción también depende de los recursos que poseen los grupos de interés, así como de los temas que tratan, siendo los temas más destacados los que intensifican las interacciones entre estos dos grupos de actores."
+    },
+    "information": {
+        "title": "Procesamiento De La Información",
+        "text": "¿Bajo qué condiciones podemos actualizar nuestras creencias y bajo qué circunstancias decidimos prestarle atención a nuevos temas políticos? Y lo que es más importante, ¿puede la información científica conducir a una mayor atención individual a nuevos temas de relevancia y actualizar las creencias o el apoyo hacia nuevas alternativas políticas? Estas apasionantes preguntas han orientado algunas de mis investigaciones anteriores y siguen guiando algunos de mis trabajos actuales. En un trabajo anterior, examiné si las élites políticas son receptivas a la información científica y descubrí que las ideas atraen más atención que la información científica. Actualmente estoy trabajando para saber si esto también ocurre entre el público en general, examinando el impacto de la información científica en la atención individual a las alternativas políticas, la actualización de las creencias y el apoyo a diferentes propuestas políticas."
+    },
+    "gender": {
+        "title": "Desigualdad De Género, Violencia Sexual Y Feminismo",
+        "text": "Aunque la igualdad de género a nivel formal va en aumento, otras formas de desigualdad de género persisten e incluso se agravan, como la violencia sexual. No se trata sólo de una cuestión de justicia de género o de derechos humanos, sino también de una importante cuestión de salud. La invisibilización de la violencia sexual, la tolerancia de la opinión pública a esta forma de violencia y la capacidad del público para identificarla como tal, son cruciales para el desarrollo y la persistencia de la violencia sexual. En este sentido, mi investigación se centra en la exploración de las percepciones públicas de dicha violencia, uan de las preguntas principals que trato de solventar es si la opinion publica puede identificar todas las formas de violencia sexual como tal. En un Segundo plano, trato de indentificar qué intervenciones públicas podrían ser más efectivas para reducir la incidencia de esta forma de violencia.  Anteriormente, trabajé con un equipo multidisciplinar de cinco mujeres para explorar las diferentes formas de violencia sexual, de las que puedes leer más ",
+        "text1": ". Actualmente estoy trabajando en una ampliación de esta investigación, utilizando un enfoque experimental que pondrá a prueba qué intervenciones políticas pueden ser más efectivas para reducir este tipo de violencia. Esta investigación está financiada por la Fundación Josep Irla (más información ",
+        "text2": ")."
+    },
+    "teaching": {
+        "title": "Docencia",
+        "text": "2018-2019. Collective Action and Interest Groups (Spanish). 4th year optional course for the Undergraduate Degree in Political Science and Administration. University of Barcelona",
+        "text1": "2021-2022. BA Seminar on Public opinion of welfare state reform and social policy (English). Winter semester. Humboldt University",
+        "text2": "2021-2022. Advanced seminar on Growth, Inequality and Poverty (English). Winter semester. Humboldt University",
+        "text3": "2022. Growth, Inequality and Poverty (English). Part of the Master’s Degree. IBEI",
+        "text4": "Teaching assistant",
+        "text5": "January – February 2021. Postgraduate course, Data Analyst for political analysis and public administration. University of Barcelona."
+    },
+    "cv": {
+        "title": "CV",
+        "text": "Puedes descargar mi CV ",
+        "text1": "aqui"
+    },
+    "publications": {
+        "title": "Publicaciones"
+    },
+    "journal": {
+        "title": "Articulos Academicos",
+        "text": "Rincón L., Forthcoming. A Robin Hood for All:- Support for universal cash transfers in a context of policy competition, a conjoint experiment in Spain. Journal of European Public Policy.",
+        "text1": "Rincón L., Vlandas, T., Hiilamo, H., Forthcoming. What’s not to like? Benefit design, funding structure and support for a universal basic income. Journal of European Social Policy.",
+        "text2": "Rincón, L., 2020. The silver bullet reversed: Does evidence increase policy-maker attention to policy proposals? Policy & Evidence.",
+        "text3": "Chrisp, J., Pulkka, V.V., Rincon, L., 2020. Snowballing or wilting? Identifying public support for universal basic income. Journal of International and Comparative Social Policy.",
+        "text4": "Chaqués, L., Cristancho, C., and Muñoz, L. and Rincon, L., 2020. The Contingent Character of Interest Groups-Political Parties. Journal of Public Policy.",
+        "text5": "Aside from publication I have also acted as a reviewer for Journal of Public Policy, Journal of European Social Policy, Journal of Common Market Studies, Social Policy and Society and Basic Income Studies."
+    },
+    "book": {
+        "title": "Capítulos De Libro",
+        "text": "Perikoo, J., Rincon, L., and Van Draanen, J., 2019. ‘Framing Basic Income Policy in Comparative Perspective.’ In: Eds. Torry, M., Handbook of Basic Income Studies (Palgrave Macmillan).",
+        "text1": "Rincón, L., Vlandas, T., (Forthcoming). ‘Basic Income and Labour Market Policy. In: Eds., Clegg, D. and Durazzi, N. Handbook of Labour Market Policy Rich Democracies. Edward Elgar"
+    },
+    "working": {
+        "title": "Trabajo En Curso",
+        "text": "2021. ‘Priors are priority: scientific information, prior beliefs and support for universal basic income’",
+        "text1": "2021. ‘The paradox of basic income: how redistribution preferences and perceptions shape support for welfare cash transfers’",
+        "text2": "2021. ‘Revisiting redistribution: perceptions on the redistributive impact of cash transfers’",
+        "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’"
+    },
+    "media": {
+        "title": "Medios",
+        "text": "Aside from the academic research and teaching I also contribute to disseminating academic findings to a broader public. You can find some examples of this below.",
+        "text1": ". Science for policy podcast. Science Advice for Policy by European Academies (SAPEA).",
+        "text2": " Evidence and Policy blog. "
+    },
+    "contact": {
+        "title": "Contacto",
+        "text": "Puedes contactarme a través del correo ",
+        "text1": " o ",
+        "text2": "Office 313",
+        "text3": "Department of Social Sciences",
+        "text4": "Humboldt University ",
+        "text5": "Universitätsstraße 3B",
+        "text6": "10117 Berlin - Germany"
+    }
+}

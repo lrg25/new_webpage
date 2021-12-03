@@ -1,0 +1,23 @@
+.cv-div-img {
+    background-image: url("../../images/foto2.jpg");
+    height: 20vh;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-color: transparent;
+    background-size: cover;
+    max-width: 1300px;
+    margin: 20px auto 0;
+}
+
+.cv-text {
+    font-size: 14px;
+    padding: 1rem 0;
+    line-height: 2rem;
+    initial-letter: 2;
+    text-align: center;
+}
+
+.link {
+    cursor: pointer;
+}
