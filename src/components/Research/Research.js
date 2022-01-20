@@ -29,7 +29,7 @@ function Research({ t }) {
                         <br/><br/>
                         <h4>{t('interest.title')}</h4>
                         {t('interest.text')}
-                        <a className="links" href="www.q-dem.com">{t('qdem')}</a>
+                        <a className="links" href="https://www.q-dem.com">{t('qdem')}</a>
                         {t('interest.text1')}
                         <a className="links" href="https://q-dem.com/en/linies-investigacio/grups-d-interes-i-qualitat-de-la-democracia/">{t('here')}</a>
                         {t('interest.text2')}

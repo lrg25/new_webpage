@@ -1,30 +1,30 @@
 {
     "welcome": "Welcome",
     "here": "here",
-    "qdem": "Q-DEM",
+    "qdem": "Q-dem",
     "home": {
         "title": "Home",
-        "text": "Welcome to my webpage. I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin."
+        "text": "Welcome to my webpage! I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin."
     },
     "aboutme": {
         "title": "About Me",
-        "text": "I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin. Before joining Humboldt, I was a pre-doctoral fellow at IBEI and UB, with funding from the Spanish Ministry of Economy, Industry and Competitiveness (FPI), linked to the project of Transparency Policy in a context of Multilevel Governance. (IP: Laura Chaqués-Bonafont). During my thesis I have been a visiting researcher at the department of Politics and International Relations at the University of Oxford.",
+        "text": "I am a post-doctoral researcher at the Chair of Political Sociology and Social Policy at Humboldt University in Berlin. Before joining Humboldt, I was a pre-doctoral fellow at IBEI and UB, with funding from the Spanish Ministry of Economy, Industry and Competitiveness (FPI), linked to the project of Transparency Policy in a context of Multilevel Governance. (IP: Laura Chaqués-Bonafont). During my thesis I have been a visiting researcher at the Department of Politics and International Relations at the University of Oxford.",
         "text1": "Before engaging in my doctoral thesis, I completed a Master’s degree on Political Analysis and Institutional Advising at the University of Barcelona, where I also worked as a research assistant for the Quality of Democracy (",
         "text2": ") research group. Before this, I also completed a BSc in Politics and International Relations at the University of Bath and worked for the Saudi Arabian embassy in Madrid.",
-        "text3": "Today, most of my research revolves around understanding the determinants of Universal Basic Income support, which was in fact the topic of my doctoral dissertation. However, my research interests also include a broad range of topics which you can find more about "
+        "text3": "You can find out more about my research "
     },
     "research": {
         "title": "Research"
     },
     "preferences": {
         "title": "Preferences for universal basic income",
-        "text": "In my PhD dissertation I examine the intriguing question of what would lead individuals to support a cash transfer for all. That is, a universal, unconditional basic income. The traditional theoretical approaches to welfare preferences have a hard time shedding a light on this question, given that it is unclear how these would apply to a universal cash transfer that everyone would receive. In addition, previous empirical research cannot fully uncover this question as it shows that predictors of UBI preferences are the same than of other schemes like targeted cash transfers. Hence, this work cannot explain whether a UBI is preferred over other alternatives, and what aspects of a UBI seem more attractive or repealing to individuals. To overcome these challenges, I employ novel theoretical arguments and design two online experiments that altogether enabled to uncover what particular aspects of a UBI play out in configuring support for this policy alternative. Some of the outputs of this research have been accepted for publication in the Journal of European Public Policy and the Journal of European Social Policy."
+        "text": "Under which conditions do individuals decide to support different cash transfer proposals for the reform of the welfare state? In particular, under what conditions would individuals support new policy alternatives like a universal and unconditional basic income? My PhD dissertation has sought to shed a light on these intriguing questions, by employing novel theoretical arguments and a refined empirical approach based on conjoint and other survey experiments to uncover the causal impact of design features on support for UBI.  Some of the outputs of this research have been accepted for publication in the Journal of European Public Policy and the Journal of European Social Policy."
     },
     "interest": {
         "title": "Interest Groups",
         "text": "I developed this interest during my years as a Research Assistant for ",
-        "text1": " and as a pre-doctoral researcher at UB and IBEI, when I collaborated in the development of the first database containing all interest groups in Spain. Aside from this database, we also designed a survey directed at this interest group population to find out more about their resources, activities, performance, and lobbying strategies (find out more ",
-        "text2": "). Part of this research derived into a paper (link: ",
+        "text1": " and as a pre-doctoral researcher at UB and IBEI, when I collaborated in the development of the first database containing all interest groups in Spain. Aside from this database, we also designed a survey directed at this interest group population to find out more about their resources, activities, performance, and lobbying strategies (you can find out more ",
+        "text2": "). Part of this research derived into a paper (you can find out more ",
         "text3": ") that explains the interactions between interest groups and political parties, in which we show that mainstream political parties are still the main targets of interest groups, but this interaction also depends on the resources that interest groups possess as well as the issues they deal with, with most salient issues intensifying interactions between these two sets of actors.",
         "text4": "In the framework of another research initiative, we also explored in collaboration  with LCB and CC public opinion perceptions on interest groups. You can find out more about this here."
     },
@@ -74,13 +74,15 @@
         "text": "2021. ‘Priors are priority: scientific information, prior beliefs and support for universal basic income’",
         "text1": "2021. ‘The paradox of basic income: how redistribution preferences and perceptions shape support for welfare cash transfers’",
         "text2": "2021. ‘Revisiting redistribution: perceptions on the redistributive impact of cash transfers’",
-        "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’"
+        "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’",
+        "text4": "“Working papers are available upon request”"
     },
     "media": {
-        "title": "Media",
-        "text": "Aside from the academic research and teaching I also contribute to disseminating academic findings to a broader public. You can find some examples of this below.",
+        "title": "Outreach",
+        "text": "Aside from the academic research and teaching I also contribute to disseminating academic findings to a broader public and consulting on my research-related fields. You can find some examples of this below.",
         "text1": ". Science for policy podcast. Science Advice for Policy by European Academies (SAPEA).",
-        "text2": " Evidence and Policy blog. "
+        "text2": " Evidence and Policy blog. ",
+        "text3": "I am currently a member of the consulting committee of the Basic Income Pilot office for the Catalan government. You can find more information "
     },
     "contact": {
         "title": "Contact",

@@ -28,6 +28,7 @@ function Publications({ t }) {
                         <div className="space-between-p">{t('book.text1')}</div>
                         <br/>
                         <h4>{t('working.title')}</h4>
+                        <div className="space-between-p">{t('working.text4')}</div>
                         <div className="space-between-p">{t('working.text')}</div>
                         <div className="space-between-p">{t('working.text1')}</div>
                         <div className="space-between-p">{t('working.text2')}</div>

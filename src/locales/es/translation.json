@@ -4,27 +4,27 @@
     "qdem": "Q-DEM",
     "home": {
         "title": "Home",
-        "text": "Bienvenid@ a mi página web. Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín."
+        "text": "Bienvenid@ a mi página web! Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín."
     },
     "aboutme": {
         "title": "Sobre Mí",
         "text": "Soy investigadora postdoctoral en la Cátedra de Sociología Política y Política Social de la Universidad Humboldt de Berlín. Antes de incorporarme a Humboldt, fui becaria predoctoral en el IBEI y la UB, donde realicé mi tesis doctoral con financiación del Ministerio de Economía, Industria y Competitividad (FPI), vinculada al proyecto de Política de Transparencia en un contexto de Gobernanza Multinivel (IP: Laura Chaqués-Bonafont). Durante mi tesis he sido investigadora visitante en el departamento de Política y Relaciones Internacionales de la Universidad de Oxford.",
         "text1": "Antes de completar mi tesis doctoral, realicé el Máster en Análisis Político y Asesoramiento Institucional en la Universidad de Barcelona, donde también trabajé como asistente de investigación en el grupo de investigación Calidad de la Democracia (",
         "text2": "). Antes de esto, me gradué en Política y Relaciones Internacionales en la Universidad de Bath y trabajé para la embajada de Arabia Saudí en Madrid.",
-        "text3": "En la actualidad, la mayor parte de mi investigación gira en torno a los determinantes del apoyo a la Renta Básica Universal, que ha sido el tema principal de mi tesis doctoral. Sin embargo, mis intereses de investigación también incluyen una amplia gama de temas sobre los que puede encontrar más información "
+        "text3": "Podéis encontrar más información sobre mi investigación "
     },
     "research": {
         "title": "Investigación"
     },
     "preferences": {
         "title": "Preferencias Por La Reforma Del Estado De Bienestar Y La Renta Básica Universal",
-        "text": "En mi tesis doctoral exploro una de los temas más novedosos en el estudio de las preferencias y actitudes hacia la reforma del estado de bienestar. Los enfoques teóricos tradicionales sobre las preferencias de bienestar no están equipados para arrojar luz sobre esta cuestión, dado que se han centrado en explicar el apoyo hacia la redistribución o otras políticas sociales, y no es intuitivo cómo aplican estas teorías al apoyo por la renta básica universal. A nivel empírco, las investigaciones anteriores no han podido descifrar esta cuestión. Estos estudios muestran que los predictores de las preferencias por la RBU son los mismos que los de otras políticas como las transferencias condicionales o los ingresos mínimos. Así, hasta ahpora no hemos podido comprender qué tipo de ingresos prefiere la opinion pública, ni qué aspectos de un UBI parecen más atractivos de esta medida, así como qué aspectos son los más inpopulares. Con el fin de arrojar luz sobre estas cuestiones, en mi tesis doctoral he empleado argumentos teóricos novedosos y he diseñado dos experimentos de encuesta que permiten entender qué aspectos de la RBU son los más importantes para configurar el apoyo a esta medida. Algunos de los resultados de esta investigación han sido aceptados para su publicación en el Journal of European Public Policy y en el Journal of European Social Policy."
+        "text": "Bajo qué condiciones decide la opinión publica apoyar la introducción de diferentes ayudas sociales para la reforma del estado de bienestar? Más concretamente, bajo qué circunstancias decide la opinión publica apoyar la implementación de una renta básica universal? Mi tesis doctoral ha tratado de arrojar luz sobre estas cuestiones, empleando argumentos teóricos novedosos y una metodología refinada basada en los experimentos de conjunto y otros experimentos de encuesta, para dilucidar qué aspectos de una renta básica universal generan apoyo y cuales generan oposición. Algunos de los resultados de esta investigación se han publicado en el Journal of European Public Policy y el Journal of European Social Policy."
     },
     "interest": {
         "title": "Grupos De Interés",
         "text": "Mi motivación para estudiar los grupos de interés surgió durante mis años como asistente de investigación en el grupo ",
         "text1": " y como investigadora predoctoral en la UB y el IBEI. Durante este tiempo trabajé con el equipo de Q-Dem en el Desarrollo de la primera base de datos de grupos de interés en España, que a dia de hoy es la más comprensiva, incluyendo grupos de interés que se han movilizado en diversas arenas. Además de esta base de datos, también diseñamos una encuesta dirigida a estos grupos de interés para conocer mejor sus recursos, actividades, actuación y estrategias de lobby (ver más ",
-        "text2": "). Parte de esta investigación derivó en un artículo académico (enlace: ",
+        "text2": "). Parte de esta investigación derivó en un artículo académico (puede encontrar más información ",
         "text3": ") que explica las interacciones entre los grupos de interés y los partidos políticos, en el que mostramos que los partidos políticos mayoritarios siguen siendo los principales objetivos de los grupos de interés, pero esta interacción también depende de los recursos que poseen los grupos de interés, así como de los temas que tratan, siendo los temas más destacados los que intensifican las interacciones entre estos dos grupos de actores."
     },
     "information": {
@@ -73,13 +73,15 @@
         "text": "2021. ‘Priors are priority: scientific information, prior beliefs and support for universal basic income’",
         "text1": "2021. ‘The paradox of basic income: how redistribution preferences and perceptions shape support for welfare cash transfers’",
         "text2": "2021. ‘Revisiting redistribution: perceptions on the redistributive impact of cash transfers’",
-        "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’"
+        "text3": "2020. ‘From the gender gap to the gender jigsaw: preferences for welfare state reform’",
+        "text4": "“Los documentos de trabajo están disponibles bajo petición”"
     },
     "media": {
         "title": "Medios",
         "text": "Aside from the academic research and teaching I also contribute to disseminating academic findings to a broader public. You can find some examples of this below.",
         "text1": ". Science for policy podcast. Science Advice for Policy by European Academies (SAPEA).",
-        "text2": " Evidence and Policy blog. "
+        "text2": " Evidence and Policy blog. ",
+        "text3": "Además de estas actividades de divulgación, también formo parte del comité asesor de la Oficina del Plan Piloto de Renta Básica Universal que forma impulsado por la Generalitat de Catalunya. Para más información podeis consultar su web "
     },
     "contact": {
         "title": "Contacto",

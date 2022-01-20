@@ -18,6 +18,7 @@ function Media({ t }) {
                         <div className="space-between-m">{t('media.text')}</div>
                         <div className="space-between-m"><a className="links" href="https://www.sapea.info/interview-leire-rincon-on-evidence-ideas-and-the-race-for-political-attention/">Interview: Leire Rincón on evidence, ideas, and the race for political attention</a>{t('media.text1')}</div>
                         <div className="space-between-m"><a className="links" href="https://evidenceandpolicyblog.co.uk/2021/05/12/does-scientific-evidence-capture-the-attention-of-policymakers/">Does scientific evidence capture the attention of policymakers?</a>{t('media.text2')}</div>
+                        <div className="space-between-m">{t('media.text3')}<a className="links" href="http://sac.gencat.cat/sacgencat/AppJava/organisme_fitxa.jsp?codi=21657">{t('here')}</a></div>
                     </div>
                 </div>
                 <div className="col-xl-1"></div>

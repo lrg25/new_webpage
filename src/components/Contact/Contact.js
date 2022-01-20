@@ -19,7 +19,7 @@ function Contact({ t }) {
                             {t('contact.text')}
                             <a className="links" href="mailto:leire.rincon.garcia@hu-berlin.de">leire.rincon.garcia@hu-berlin.de</a>
                             {t('contact.text1')}
-                            <a className="links" href="lrincon@ibei.org.">lrincon@ibei.org.</a>.
+                            <a className="links" href="lrincon@ibei.org.">lrincon@ibei.org</a>.
                         </div>
                         <div>{t('contact.text2')}</div>
                         <div>{t('contact.text3')}</div>

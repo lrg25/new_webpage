@@ -15,10 +15,10 @@ function Teaching({ t }) {
                 <div className="col-xl-10 t-div-sty-t">
                     <div className="col-xl-5 t-div-img-t"></div>
                     <div className="col-xl-7 t-text-t">
-                        <div className="space-between-t">{t('teaching.text')}</div>
-                        <div className="space-between-t">{t('teaching.text1')}</div>
-                        <div className="space-between-t">{t('teaching.text2')}</div>
                         <div className="space-between-t">{t('teaching.text3')}</div>
+                        <div className="space-between-t">{t('teaching.text2')}</div>
+                        <div className="space-between-t">{t('teaching.text1')}</div>
+                        <div className="space-between-t">{t('teaching.text')}</div>
                         <div className="space-between-t">{t('teaching.text4')}</div>
                         <div className="space-between-t">{t('teaching.text5')}</div>
                     </div>
