@@ -15,7 +15,6 @@ function Home({ t }) {
                 <div className="col-xl-10 div-sty">
                     <div className="col-xl-6 div-img"></div>
                     <div className="col-xl-6 div-text">
-                        <div className="title">LEIRE RINCON</div>
                         <div className="text">{t('home.text')}</div>
                     </div>
                 </div>
