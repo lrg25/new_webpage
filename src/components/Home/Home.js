@@ -8,6 +8,7 @@ function Home({ t }) {
         <div>
             <Helmet>
                 <meta charSet="utf-8" />
+                <meta name="google-site-verification" content="Bj-w2haa6TFSQj_xvxsVvbfqnf1ZRKyF-AVgzb6s5Zo" />
                 <title>Leire Rincon | {t('home.title')}</title>
             </Helmet>
             <div className="row">
